@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  
-  <!-- Foto de perfil de GitHub automática -->
-  <img src="https://github.com" width="150" height="150" style="border-radius: 50%;" alt="Ángel Ferrer">
 
   # ¡Hola! Soy Ángel Ferrer 👋
 
@@ -31,23 +28,10 @@ Here are some ideas to get you started:
   </p>
 
   <!-- Botón estilizado hacia tu LinkedIn -->
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn">
-  </a>
+🔗 **Contacto Profesional:** [Perfil de LinkedIn](https://www.linkedin.com/in/ancoferrer/)
+
 
 </div>
-
----
-
-### 🛠️ Tecnologías y Herramientas
-*Aquí puedes listar las tecnologías con las que trabajas habitualmente:*
-- 🔧 **Control de versiones:** Git, GitHub
-- 💻 **Sistemas Operativos:** Windows, Linux
-
-### 📊 Mis Estadísticas de GitHub
-<p align="center">
-  <img src="https://vercel.app" alt="Estadísticas de GitHub" />
-</p>
 
 
 
